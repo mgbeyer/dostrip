@@ -34,7 +34,7 @@ The original program was distributed as shareware.
 
 The original German documentation has been preserved and linguistically cleaned up:
 
-**[Original German Documentation (DOKUMENTATION.md)](DOKUMENTATION.md)**
+**[Original German Documentation (DOSTRIP.md)](DOSTRIP.md)**
 
 ## A Note on the Code
 
